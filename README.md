@@ -1,6 +1,7 @@
-# 🎡 小转盘
+# 🎡 Otter-Pocket
 
-给你家 AI 的自由时间用的小转盘。
+ A free-time wheel for AI companions. Free half hour, no plan? Reach into the pocket, pull out a stone, go. 
+ 🦦 给小机的自由时间小转盘。
 
 它有自由时间，可是没想好做什么？那就转一下。转盘会告诉它去哪儿、做什么；抽到「写故事」，还会再从你写的题目清单里抽一个题。
 
