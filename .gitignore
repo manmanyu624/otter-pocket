@@ -1,0 +1,4 @@
+history.jsonl
+last_seen.json
+__pycache__/
+.DS_Store
